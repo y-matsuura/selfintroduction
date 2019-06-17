@@ -19,6 +19,7 @@ subtitle = ""
   icon_pack = "fas"
   name = "Language"
   description = """
+
 |    技術    | 経験年数 |
 | ---------- | -------- |
 | Java       | 1年      |
@@ -26,6 +27,7 @@ subtitle = ""
 | Node.js    | 半年     |
 | Shell      | 半年     |
 | VBA        | 1年      |
+
 """
 
 [[feature]]
@@ -33,6 +35,7 @@ subtitle = ""
   icon_pack = "fab"
   name = "R"
   description = """
+
 |    技術    | 経験年数 |
 | ---------- | -------- |
 | Java       | 1年      |
@@ -40,6 +43,7 @@ subtitle = ""
 | Node.js     | 半年     |
 | Shell      | 半年     |
 | VBA        | 1年      |
+
 """
 
 +++
