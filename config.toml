@@ -1,0 +1,6 @@
+baseURL = "https://y-matsuura.github.io/selfintroduction/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "academic"
+canonifyurls = true
+publishDir = "docs"
