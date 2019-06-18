@@ -41,8 +41,8 @@ enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 publishDir = "docs"
-canonifyurls = true
-#relativeurls = true
+#canonifyurls = true
+relativeurls = true
 
 [outputs]
   home = [ "HTML", "RSS", "JSON" ]
