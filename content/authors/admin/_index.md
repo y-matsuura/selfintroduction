@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Yuji Matsuura
 
 # Username (this should match the folder name)
 authors:
